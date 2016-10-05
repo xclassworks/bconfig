@@ -1,6 +1,6 @@
 {
   "socketServer": {
-    "ipAddress": "192.168.1.45",
+    "ipAddress": "xpsiron.com",
     "port": 8989
   },
   "webRTC": {
